@@ -1,0 +1,16 @@
+[
+{
+  "modid": "RailsMod",
+  "name": "rails",
+  "description": "Vannila Plus Rails",
+  "version": "1.0",
+  "mcversion": "1.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["kuuy3"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

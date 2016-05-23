@@ -1,0 +1,9 @@
+#ja_JP langfile
+#Blocks
+tile.onerail.name=路面電車のレール
+tile.clearrail.name=完全透明レール
+tile.clearrailpowered.name=透明レール(赤石)
+tile.railstop.name=電車止め
+tile.railcamo.name=苔の生えたレール
+tile.railblock.name=積まれたレール
+tile.lantern.name=LEDライト

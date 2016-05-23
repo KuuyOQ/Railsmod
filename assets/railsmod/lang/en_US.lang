@@ -1,0 +1,9 @@
+#ja_JP langfile
+#Blocks
+tile.onerail.name=Axis
+tile.clearrail.name=Clearrail
+tile.clearrailpowered.name=Clearrail(powered)
+tile.railstop.name=RailStop
+tile.railcamo.name=Old Rail
+tile.railblock.name=CompressedRail
+tile.lantern.name=LED Light

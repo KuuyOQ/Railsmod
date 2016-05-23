@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "shape=north_south": { "model": "railsmod:clearrail_flat" },
+        "shape=east_west": { "model": "railsmod:clearrail_flat", "y": 90 },
+        "shape=ascending_east": { "model": "railsmod:normal_clearrail_raised_ne", "y": 90 },
+        "shape=ascending_west": { "model": "railsmod:normal_clearrail_raised_sw", "y": 90 },
+        "shape=ascending_north": { "model": "railsmod:normal_clearrail_raised_ne" },
+        "shape=ascending_south": { "model": "railsmod:normal_clearrail_raised_sw" },
+        "shape=south_east": { "model": "railsmod:normal_clearrail_curved" },
+        "shape=south_west": { "model": "railsmod:normal_clearrail_curved", "y": 90 },
+        "shape=north_west": { "model": "railsmod:normal_clearrail_curved", "y": 180 },
+        "shape=north_east": { "model": "railsmod:normal_clearrail_curved", "y": 270 }
+    }
+}
